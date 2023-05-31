@@ -1,4 +1,4 @@
-# 20230524
+# 20230531
 callsign,member_id,valid_from,valid_to
 M0ZAI,001,,
 MW0IAN,002,,
@@ -485,7 +485,7 @@ G0HKC,471,,
 GU0BEZ,472,,
 AA3BR,473,,
 PD0RZH,474,,
-DL1OP,475,,
+#SK DL1OP,475,,
 G0WFD,476,,
 OK1LIX,477,,
 M0WDD,478,,
