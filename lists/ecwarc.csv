@@ -1,4 +1,4 @@
-# 20230614
+# 20230621
 callsign,member_id,valid_from,valid_to
 G4ZUL,1,,
 G0IBN,2,,
@@ -626,3 +626,6 @@ M0KBG,647,,
 RC8SA,648,,
 G0HVW,649,,
 M0VPH,650,,
+M0DFL,651,,
+RC8SC,652,,
+2E0IKJ,653,,
