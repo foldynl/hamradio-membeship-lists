@@ -1,4 +1,4 @@
-# 20240211
+# 20240227
 callsign,member_id,valid_from,valid_to
 AJ9C,,,
 YN2CC,,,
@@ -227,8 +227,6 @@ DL1II,,,
 DL1MAJ,,,
 HA1BC,,,
 DF0BV,,,
-DL1MDZ,,,
-DL1Z,,,
 DL1MGB,,,
 KO2WW,,,
 DL1MHJ,,,
@@ -241,6 +239,7 @@ DL1QQ,,,
 N0QQ,,,
 DL1REM,,,
 DL1RTL,,,
+DL1SO,,,
 DL1TS,,,
 DL1VDL,,,
 DL0DA,,,
