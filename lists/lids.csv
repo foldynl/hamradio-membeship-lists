@@ -1,4 +1,4 @@
-# 20240717
+# 20240724
 callsign,member_id,valid_from,valid_to
 M0ZAI,001,,
 MW0IAN,002,,
@@ -370,7 +370,7 @@ KN4QDE,355,,
 W5XNA,356,,
 N4ARY,357,,
 F6IIV,358,,
-MU0FAL,359,,
+#SK MU0FAL,359,,
 G4MAD,360,,
 MM0VEG,361,,
 KC4GFW,362,,
