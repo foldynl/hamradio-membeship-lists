@@ -1,4 +1,4 @@
-# 20241030
+# 20241106
 callsign,member_id,valid_from,valid_to
 M0ZAI,001,,
 MW0IAN,002,,
@@ -105,7 +105,7 @@ G7SOZ,101,,
 PD2HGV,102,,
 G4CFS,103,,
 F6FAS,104,,
-WZ0W,105,,
+#SK WZ0W,105,,
 R8CHR,106,,
 F6ITU,107,,
 F4FLO,108,,
