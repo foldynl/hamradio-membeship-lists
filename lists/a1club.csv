@@ -1,4 +1,4 @@
-# 20241225
+# 20250101
 callsign,member_id,valid_from,valid_to
 3B8GD,402,,
 4I1BNC,403,,
@@ -79,7 +79,6 @@ callsign,member_id,valid_from,valid_to
 7L3XGI,34,,
 7L4CLS,102,,
 7L4DZN,34,,
-7L4ESN,5,,
 7L4JTZ,40,,
 7L4NDL,211,,
 7L4QIT,29,,
@@ -2824,6 +2823,7 @@ JJ1EOE,343,,
 JJ1FWH,353,,
 JJ1FXF,365,,
 JJ1FXH,319,,
+JJ1GHH,5,,
 JJ1GNM,322,,
 JJ1GTQ,327,,
 JJ1GUT,369,,
