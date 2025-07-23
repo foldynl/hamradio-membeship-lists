@@ -1,7 +1,8 @@
-# 20250716
+# 20250723
 callsign,member_id,valid_from,valid_to
 GX1FCW,0.1,,
 G8CW,0.2,,
+G4C,0.3,,
 G4ZUL,1,,
 G0IBN,2,,
 G0DVJ,5,,
@@ -726,3 +727,4 @@ G0UBE,759,,
 IK6FVV,760,,
 M0WNS,761,,
 M1RJG,762,,
+G1RJG,763,,
