@@ -3,6 +3,8 @@ A1OP,A-1 Operators Club ,a1op.csv,20251022,6384
 AGCWDL,Activity Group CW-DL,agcwdl.csv,20251009,2319
 ARLHS,Amateur Radio Lighthouse Society,arlhs.csv,20251022,243
 BCC,Bavarian Contest Club,bcc.csv,20250919,569
+ClubLog,Club Log Members,clublog.csv,20251022,258681
+ClubLogOQRS,Club Log OQRS Members,clublogOQRS.csv,20251022,30259
 CWOps,CWOps,cwops.csv,20251022,3296
 ECWARC,Essex CW Amateur Radio Club,ecwarc.csv,20251022,732
 EHSC,Radio Telegraphy Extremely High Speed Club,ehsc.csv,20250923,121
