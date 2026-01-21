@@ -1,4 +1,4 @@
-# 20260106
+# 20260118
 callsign,member_id,valid_from,valid_to
 AJ9C,,,
 YN2CC,,,
@@ -31,6 +31,7 @@ DN1VN,,,
 DC2YY,,,
 DC8YZ,,,
 DD1JN,,,
+DD1LD,,,
 DD1MAT,,,
 DD2ML,,,
 DD5FZ,,,
@@ -508,6 +509,8 @@ N0XW,,,
 OE2GEN,,,
 OE2LCM,,,
 OE2VEL,,,
+OE3FTA,,,
+HB9EUT,,,
 OE5KKP,,,
 DL9KX,,,
 OE5OHO,,,
