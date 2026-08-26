@@ -1,4 +1,4 @@
-# 20260706
+# 20260819
 callsign,member_id,valid_from,valid_to
 AJ9C,,,
 YN2CC,,,
@@ -295,6 +295,7 @@ DL2RMC,,,
 A65CW,,,
 DL2SKY,,,
 DL2VFR,,,
+DL2YA,,,
 DL2YL,,,
 DL2ZA,,,
 DL2ZAV,,,
@@ -302,6 +303,7 @@ DL3ABL,,,
 DL3BPC,,,
 DL3DW,,,
 DL3DXX,,,
+DL3KWF,,,
 DL3LAB,,,
 DL3LBA,,,
 DK3A,,,
