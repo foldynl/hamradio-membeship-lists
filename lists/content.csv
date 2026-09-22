@@ -4,6 +4,7 @@ AGCWDL,Activity Group CW-DL,agcwdl.csv,20260916,2367
 ARLHS,Amateur Radio Lighthouse Society,arlhs.csv,20260916,244
 BCC,Bavarian Contest Club,bcc.csv,20260909,598
 ClubLog,Club Log Members,clublog.csv,20260916,272478
+ClubLogDXPED,Clublog DX Expeditions,clublogDXPED.csv,20260922,42
 ClubLogOQRS,Club Log OQRS Members,clublogOQRS.csv,20260916,30813
 CWOps,CWOps,cwops.csv,20260916,3387
 ECWARC,Essex CW Amateur Radio Club,ecwarc.csv,20260916,772
